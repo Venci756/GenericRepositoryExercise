@@ -1,0 +1,14 @@
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.BusinessLayer\bin\Debug\netstandard2.0\My.Employee.BusinessLayer.deps.json
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.BusinessLayer\bin\Debug\netstandard2.0\My.Employee.BusinessLayer.dll
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.BusinessLayer\bin\Debug\netstandard2.0\My.Employee.BusinessLayer.pdb
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.BusinessLayer\obj\Debug\netstandard2.0\My.Employee.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.BusinessLayer\obj\Debug\netstandard2.0\My.Employee.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.BusinessLayer\obj\Debug\netstandard2.0\My.Employee.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.BusinessLayer\obj\Debug\netstandard2.0\My.Employee.BusinessLayer.AssemblyInfo.cs
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.BusinessLayer\obj\Debug\netstandard2.0\My.Employee.BusinessLayer.dll
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.BusinessLayer\obj\Debug\netstandard2.0\My.Employee.BusinessLayer.pdb
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.BusinessLayer\bin\Debug\netstandard2.0\My.Employee.DataLayer.dll
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.BusinessLayer\bin\Debug\netstandard2.0\My.Employee.DomainModels.dll
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.BusinessLayer\bin\Debug\netstandard2.0\My.Employee.DataLayer.pdb
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.BusinessLayer\bin\Debug\netstandard2.0\My.Employee.DomainModels.pdb
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.BusinessLayer\obj\Debug\netstandard2.0\My.Employee.BusinessLayer.csproj.CopyComplete

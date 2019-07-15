@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20190714171316_InitialMigration.cs" />
+    <Compile Remove="Migrations\20190714171316_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20190714172413_InitialMigration.cs" />
+    <Compile Remove="Migrations\20190714172413_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20190714172735_InitialMigration.cs" />
+    <Compile Remove="Migrations\20190714172735_InitialMigration.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="2.2.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\My.Employee.DomainModels\My.Employee.DomainModels.csproj" />
+  </ItemGroup>
+
+</Project>

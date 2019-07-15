@@ -1,0 +1,9 @@
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DomainModels\bin\Debug\netstandard2.0\My.Employee.DomainModels.deps.json
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DomainModels\bin\Debug\netstandard2.0\My.Employee.DomainModels.dll
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DomainModels\bin\Debug\netstandard2.0\My.Employee.DomainModels.pdb
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DomainModels\obj\Debug\netstandard2.0\My.Employee.DomainModels.csprojAssemblyReference.cache
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DomainModels\obj\Debug\netstandard2.0\My.Employee.DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DomainModels\obj\Debug\netstandard2.0\My.Employee.DomainModels.AssemblyInfoInputs.cache
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DomainModels\obj\Debug\netstandard2.0\My.Employee.DomainModels.AssemblyInfo.cs
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DomainModels\obj\Debug\netstandard2.0\My.Employee.DomainModels.dll
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DomainModels\obj\Debug\netstandard2.0\My.Employee.DomainModels.pdb

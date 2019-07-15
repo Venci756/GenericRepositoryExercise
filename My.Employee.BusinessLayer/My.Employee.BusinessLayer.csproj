@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\My.Employee.DataLayer\My.Employee.DataLayer.csproj" />
+    <ProjectReference Include="..\My.Employee.DomainModels\My.Employee.DomainModels.csproj" />
+  </ItemGroup>
+
+</Project>

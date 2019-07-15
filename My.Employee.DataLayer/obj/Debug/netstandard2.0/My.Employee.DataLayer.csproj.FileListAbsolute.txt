@@ -1,0 +1,12 @@
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DataLayer\bin\Debug\netstandard2.0\My.Employee.DataLayer.deps.json
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DataLayer\bin\Debug\netstandard2.0\My.Employee.DataLayer.dll
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DataLayer\obj\Debug\netstandard2.0\My.Employee.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DataLayer\obj\Debug\netstandard2.0\My.Employee.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DataLayer\obj\Debug\netstandard2.0\My.Employee.DataLayer.AssemblyInfo.cs
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DataLayer\bin\Debug\netstandard2.0\My.Employee.DataLayer.pdb
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DataLayer\obj\Debug\netstandard2.0\My.Employee.DataLayer.csprojAssemblyReference.cache
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DataLayer\obj\Debug\netstandard2.0\My.Employee.DataLayer.dll
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DataLayer\obj\Debug\netstandard2.0\My.Employee.DataLayer.pdb
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DataLayer\bin\Debug\netstandard2.0\My.Employee.DomainModels.dll
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DataLayer\bin\Debug\netstandard2.0\My.Employee.DomainModels.pdb
+C:\Users\Venko\Desktop\MyProjects\DotnetPlayground\My.Employee.App\My.Employee.DataLayer\obj\Debug\netstandard2.0\My.Employee.DataLayer.csproj.CopyComplete
